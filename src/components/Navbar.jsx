@@ -21,7 +21,7 @@ const Navbar = () => {
                     </ul>
                 </div>
             </div>
-            <div className="navbar-center hidden lg:flex">
+            <div className="navbar-center lg:flex">
                 <a><img src='/src/assets/pnb-logo.svg' className='h-10' /></a>
             </div>
             <div className="navbar-end">
